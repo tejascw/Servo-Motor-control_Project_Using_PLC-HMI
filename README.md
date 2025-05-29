@@ -8,7 +8,7 @@ This project demonstrates the **servo motor position control** using an HMI desi
 
 ### ➤ GT Simulator Runtime Screen
 
-![GT Simulator Screen](images/HMI_Simulator.png)
+![GT Simulator Screen](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/HMI%20Sumulator.PNG)
 
 > This screen shows the real-time simulation of the servo motor system with active position control and mode selection.
 
@@ -16,7 +16,7 @@ This project demonstrates the **servo motor position control** using an HMI desi
 
 ### ➤ GT Designer HMI Design Screen
 
-![GT Designer HMI Screen](images/HMI_Design_Screen.png)
+![GT Designer HMI Screen](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/HMI_Design_Screen.png)
 
 > HMI screen developed using GT Designer3 for Mitsubishi's GOT2000 series HMI. This layout allows mode switching, emergency handling, and position selection.
 
