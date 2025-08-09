@@ -1,6 +1,7 @@
 # 🚀 Servo Motor Movement Control Using PLC & HMI
 
 🎥 **[Watch the Project Demonstration Video](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/servo_motor_video_demonstration.mp4)**
+https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/servo_motor_video_demonstration.mp4
 
 ---
 
