@@ -58,9 +58,9 @@ The system supports:
 
 | Image                                                                                      | Description                                 |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------- |
-| ![https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMIServo Motor Conveyor Simulation](./Servo%28Conveyor%29_Motor_Movement_Simulation%20.jpg) | Servo motor controlling conveyor simulation |
-| ![https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMIServo Motor HMI](./Servo_Motor_HMI.jpg)                                                  | Actual HMI interface design                 |
-| ![https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMISimulated Servo HMI](./Simulated_Servo_HMI.jpg)                                          | Simulated HMI environment                   |
+| ![Servo Motor Conveyor Simulation](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/Servo%28Conveyor%29_Motor_Movement_Simulation%20.jpg) | Servo motor controlling conveyor simulation |
+| ![Servo Motor HMI](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/Servo_Motor_HMI.jpg)                                                  | Actual HMI interface design                 |
+| ![Simulated Servo HMI](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/Simulated_Servo_HMI.jpg)                                          | Simulated HMI environment                   |
 
 ---
 
