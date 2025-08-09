@@ -40,17 +40,17 @@ The system supports:
 
 ### ⚡ **PLC Program Files**
 
-* [`Servo_moter_movement_project 1.gx3`](./Servo_moter_movement_project%201.gx3) — Main PLC project for **Mitsubishi GX Works3**.
-* [`Servo_Motor_PLC_Progrmming_file.xml`](./Servo_Motor_PLC_Progrmming_file.xml) — Full ladder logic in XML format.
-* [`Servo_Motor_PLC_Progrmming_file.html`](./Servo_Motor_PLC_Progrmming_file.html) — Ladder logic diagram in HTML format for web viewing.
-* [`Servo_Motor_PLC_Progrmming_file.txt`](./Servo_Motor_PLC_Progrmming_file.txt) — Textual representation of PLC logic.
-* [`Servo_Motor_PLC_Progrmming_file.csv`](./Servo_Motor_PLC_Progrmming_file.csv) — CSV-based program export.
+* [`https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo_moter_movement_project%201.gx3`](./Servo_moter_movement_project%201.gx3) — Main PLC project for **Mitsubishi GX Works3**.
+* [`https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo_Motor_PLC_Progrmming_file.xml`](./Servo_Motor_PLC_Progrmming_file.xml) — Full ladder logic in XML format.
+* [`https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo_Motor_PLC_Progrmming_file.html`](./Servo_Motor_PLC_Progrmming_file.html) — Ladder logic diagram in HTML format for web viewing.
+* [`https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo_Motor_PLC_Progrmming_file.txt`](./Servo_Motor_PLC_Progrmming_file.txt) — Textual representation of PLC logic.
+* [`https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo_Motor_PLC_Progrmming_file.csv`](./Servo_Motor_PLC_Progrmming_file.csv) — CSV-based program export.
 
 ---
 
 ### 🖥 **HMI Project**
 
-* [`Servo_Motor_HMI_project.GTX`](./Servo_Motor_HMI_project.GTX) — HMI design project for **Mitsubishi GT Designer3**.
+* [`https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo_Motor_HMI_project.GTX`](./Servo_Motor_HMI_project.GTX) — HMI design project for **Mitsubishi GT Designer3**.
 
 ---
 
@@ -58,9 +58,9 @@ The system supports:
 
 | Image                                                                                      | Description                                 |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------- |
-| ![Servo Motor Conveyor Simulation](./Servo%28Conveyor%29_Motor_Movement_Simulation%20.jpg) | Servo motor controlling conveyor simulation |
-| ![Servo Motor HMI](./Servo_Motor_HMI.jpg)                                                  | Actual HMI interface design                 |
-| ![Simulated Servo HMI](./Simulated_Servo_HMI.jpg)                                          | Simulated HMI environment                   |
+| ![https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMIServo Motor Conveyor Simulation](./Servo%28Conveyor%29_Motor_Movement_Simulation%20.jpg) | Servo motor controlling conveyor simulation |
+| ![https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMIServo Motor HMI](./Servo_Motor_HMI.jpg)                                                  | Actual HMI interface design                 |
+| ![https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMISimulated Servo HMI](./Simulated_Servo_HMI.jpg)                                          | Simulated HMI environment                   |
 
 ---
 
@@ -129,8 +129,7 @@ The system supports:
 | **PLC**                  | Mitsubishi Electric R00 Series      |
 | **Programming Software** | GX Works3                           |
 | **HMI Software**         | GT Designer3                        |
-| **Motor Type**           | Industrial Servo Motor              |
-| **Control Method**       | Position-based ladder logic control |
+
 
 ---
 
@@ -190,12 +189,6 @@ OUT Y1            // Activate forward output
 **Tejas Waghmare**
 *Mechanical Engineer | Industrial Automation & Robotics Enthusiast*
 
----
-
-If you want, I can **add a complete ladder logic diagram preview directly inside the README** so visitors can see the actual program without opening GX Works3.
-That would make your GitHub project even more attractive and informative.
-
-Do you want me to add that next?
 
 
 
