@@ -40,7 +40,7 @@ The system supports:
 
 ### ⚡ **PLC Program Files**
 
-* [`https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo_moter_movement_project%201.gx3`](./Servo_moter_movement_project%201.gx3) — Main PLC project for **Mitsubishi GX Works3**.
+* [`Servo_moter_movement_project%201.gx3`](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/./Servo_moter_movement_project%201.gx3) — Main PLC project for **Mitsubishi GX Works3**.
 * [`https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo_Motor_PLC_Progrmming_file.xml`](./Servo_Motor_PLC_Progrmming_file.xml) — Full ladder logic in XML format.
 * [`https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo_Motor_PLC_Progrmming_file.html`](./Servo_Motor_PLC_Progrmming_file.html) — Ladder logic diagram in HTML format for web viewing.
 * [`https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo_Motor_PLC_Progrmming_file.txt`](./Servo_Motor_PLC_Progrmming_file.txt) — Textual representation of PLC logic.
