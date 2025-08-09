@@ -10,7 +10,7 @@
 
 
 
-https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/servo_motor_video_demonstration.mp4
+https://github.com/user-attachments/assets/e03d6cc6-a093-4764-8190-e45e5abe53d3
 
 
 
