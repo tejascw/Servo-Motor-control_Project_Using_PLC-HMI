@@ -67,7 +67,7 @@ The system supports:
 
 ### 🖼 **Images & Visual References**
 
-| Image                                                                                      | Description                                 |
+| Image                                                                                 &  Description                                 |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------- |
 | ![Servo Motor HMI](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo_Motor_HMI.jpg)                |         ![Simulated Servo HMI](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Simulated_Servo_HMI.jpg)          |
 | Actual HMI interface design| Simulated HMI environment |
