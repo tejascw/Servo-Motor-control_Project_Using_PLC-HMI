@@ -1,6 +1,6 @@
 # 🚀 Servo Motor Movement Control Using PLC & HMI
 
-🎥 **[Watch the Project Demonstration Video](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/servo_motor_video_demonstration.mp4)**
+
 
 
 
@@ -16,6 +16,8 @@ https://github.com/user-attachments/assets/e03d6cc6-a093-4764-8190-e45e5abe53d3
 
 
 
+
+🎥 **[Watch the Project Demonstration Video](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/servo_motor_video_demonstration.mp4)**
 
 
 
@@ -50,16 +52,16 @@ The system supports:
 ### ⚡ **PLC Program Files**
 
 * [`Servo_moter_movement_project%201.gx3`](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/./Servo_moter_movement_project%201.gx3) — Main PLC project for **Mitsubishi GX Works3**.
-* [`https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo_Motor_PLC_Progrmming_file.xml`](./Servo_Motor_PLC_Progrmming_file.xml) — Full ladder logic in XML format.
-* [`https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo_Motor_PLC_Progrmming_file.html`](./Servo_Motor_PLC_Progrmming_file.html) — Ladder logic diagram in HTML format for web viewing.
-* [`https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo_Motor_PLC_Progrmming_file.txt`](./Servo_Motor_PLC_Progrmming_file.txt) — Textual representation of PLC logic.
-* [`https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo_Motor_PLC_Progrmming_file.csv`](./Servo_Motor_PLC_Progrmming_file.csv) — CSV-based program export.
+* [`Servo_Motor_PLC_Progrmming_file.xml`](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main//Servo_Motor_PLC_Progrmming_file.xml) — Full ladder logic in XML format.
+* [`Servo_Motor_PLC_Progrmming_file.html`](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main//Servo_Motor_PLC_Progrmming_file.html) — Ladder logic diagram in HTML format for web viewing.
+* [`Servo_Motor_PLC_Progrmming_file.txt`](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main//Servo_Motor_PLC_Progrmming_file.txt) — Textual representation of PLC logic.
+* [`Servo_Motor_PLC_Progrmming_file.csv`](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main//Servo_Motor_PLC_Progrmming_file.csv) — CSV-based program export.
 
 ---
 
 ### 🖥 **HMI Project**
 
-* [`https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo_Motor_HMI_project.GTX`](./Servo_Motor_HMI_project.GTX) — HMI design project for **Mitsubishi GT Designer3**.
+* [`Servo_Motor_HMI_project.GTX`](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main//Servo_Motor_HMI_project.GTX) — HMI design project for **Mitsubishi GT Designer3**.
 
 ---
 
@@ -67,11 +69,27 @@ The system supports:
 
 | Image                                                                                      | Description                                 |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------- |
-| ![Servo Motor Conveyor Simulation](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo(Conveyor)_Motor_Movement_Simulation%20.jpg) | Servo motor controlling conveyor simulation |
-| ![Servo Motor HMI](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo_Motor_HMI.jpg)                                                  | Actual HMI interface design                 |
-| ![Simulated Servo HMI](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Simulated_Servo_HMI.jpg)                                          | Simulated HMI environment                   |
+| ![Servo Motor HMI](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo_Motor_HMI.jpg)                             | Actual HMI interface design                 |
+|  ![Simulated Servo HMI](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Simulated_Servo_HMI.jpg)   | Simulated HMI environment  |
+
+| ![Servo Motor Conveyor Simulation](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo(Conveyor)_Motor_Movement_Simulation%20.jpg)      | Servo motor controlling conveyor simulation                   |
 
 ---
+
+## 🔄 Working Flow
+
+```mermaid
+flowchart TD
+    A[Power ON & Drive Enable] --> B{Select Mode}
+    B -->|Position Mode| C[Select Position 1/2/3]
+    C --> D[Motor Moves to Position]
+    B -->|Home Mode| E[Move to Zero Reference]
+    B -->|Jog Mode| F[Manual Forward/Reverse]
+    D --> G[Stop at Position]
+    E --> G
+    F --> G
+```
+
 
 ## 🛠 Technical Details
 
@@ -142,19 +160,6 @@ The system supports:
 
 ---
 
-## 🔄 Working Flow
-
-```mermaid
-flowchart TD
-    A[Power ON & Drive Enable] --> B{Select Mode}
-    B -->|Position Mode| C[Select Position 1/2/3]
-    C --> D[Motor Moves to Position]
-    B -->|Home Mode| E[Move to Zero Reference]
-    B -->|Jog Mode| F[Manual Forward/Reverse]
-    D --> G[Stop at Position]
-    E --> G
-    F --> G
-```
 
 ---
 
