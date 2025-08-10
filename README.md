@@ -72,7 +72,7 @@ The system supports:
 | ![Servo Motor HMI](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo_Motor_HMI.jpg)                |         ![Simulated Servo HMI](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Simulated_Servo_HMI.jpg)          |
 | Actual HMI interface design| Simulated HMI environment |
 | ![Servo Motor Conveyor Simulation](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo(Conveyor)_Motor_Movement_Simulation%20.jpg) | 
-| Servo motor controlling conveyor simulation   |
+| Servo motor controlling conveyor simulation  |
 
 ---
 
@@ -175,6 +175,9 @@ ANI M2            // Reverse memory OFF
 OUT Y1            // Activate forward output
 ```
 
+https://drive.google.com/file/d/15Aqu7le0woJv72qmGnAa7W5TQT06NAls/view?usp=drive_link
+
+
 ---
 
 ## 🚀 How to Use
@@ -201,7 +204,7 @@ OUT Y1            // Activate forward output
 ## 👨‍💻 Author
 
 **Tejas Waghmare**
-*Mechanical Engineer | Industrial Automation & Robotics Enthusiast*
+*Mechanical Engineer | PLC, HMI, SENSOR, Industrial Automation & Robotics Enthusiast*
 
 
 
