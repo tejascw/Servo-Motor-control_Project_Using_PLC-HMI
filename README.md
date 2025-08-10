@@ -175,7 +175,7 @@ ANI M2            // Reverse memory OFF
 OUT Y1            // Activate forward output
 ```
 
-https://drive.google.com/file/d/15Aqu7le0woJv72qmGnAa7W5TQT06NAls/view?usp=drive_link
+[](https://drive.google.com/file/d/15Aqu7le0woJv72qmGnAa7W5TQT06NAls/view?usp=drive_link)
 
 
 ---
