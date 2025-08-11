@@ -56,7 +56,7 @@ The system supports:
 * [`Servo_Motor_PLC_Progrmming_file.html`](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main//Servo_Motor_PLC_Progrmming_file.html) — Ladder logic diagram in HTML format for web viewing.
 * [`Servo_Motor_PLC_Progrmming_file.txt`](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main//Servo_Motor_PLC_Progrmming_file.txt) — Textual representation of PLC logic.
 * [`Servo_Motor_PLC_Progrmming_file.csv`](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main//Servo_Motor_PLC_Progrmming_file.csv) — CSV-based program export
-*[`Servo_Motor_PLC_Progrmming_file.pdf`](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo_Motor_PLC_Progrmming_file.pdf) - PLC Programming file
+* [`Servo_Motor_PLC_Progrmming_file.pdf`](https://github.com/tejascw/Servo-Motor-control_Project_Using_PLC-HMI/blob/main/Servo_Motor_PLC_Progrmming_file.pdf) - PLC Programming file
 
 ---
 
