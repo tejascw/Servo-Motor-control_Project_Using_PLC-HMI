@@ -183,7 +183,7 @@ OUT Y1            // Activate forward output
 
 
 
-[Servo_Motor_PLC_Progrmming_file.pdf](https://github.com/user-attachments/files/21740714/Servo_Motor_PLC_Progrmming_file.pdf)
+
 
 
 
@@ -197,7 +197,7 @@ OUT Y1            // Activate forward output
 
 
 
-
+## Ladder Logic Programming pdf file: [Servo_Motor_PLC_Progrmming_file.pdf](https://github.com/user-attachments/files/21740714/Servo_Motor_PLC_Progrmming_file.pdf)
 
 
 
