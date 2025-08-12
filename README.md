@@ -175,23 +175,6 @@ LD M1             // Forward memory switch
 ANI M2            // Reverse memory OFF
 OUT Y1            // Activate forward output
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```
 
 
