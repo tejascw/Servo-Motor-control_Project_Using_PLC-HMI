@@ -174,12 +174,30 @@ LD M0             // Power memory bit ON
 LD M1             // Forward memory switch
 ANI M2            // Reverse memory OFF
 OUT Y1            // Activate forward output
-```
+
+
+
+
+
 
 
 
 
 [Servo_Motor_PLC_Progrmming_file.pdf](https://github.com/user-attachments/files/21740714/Servo_Motor_PLC_Progrmming_file.pdf)
+
+
+
+
+
+
+
+
+```
+
+
+
+
+
 
 
 
